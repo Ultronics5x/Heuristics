@@ -1,4 +1,4 @@
-This Jupyter Notebook demonstrates the process of image classification using a Convolutional Neural Network (CNN) implemented in TensorFlow. Here's a summary of its key components:
+# This Jupyter Notebook demonstrates the process of image classification using a Convolutional Neural Network (CNN) implemented in TensorFlow. Here's a summary of its key components:
 
 1. **Dataset Exploration**:
    - The dataset consists of approximately 3,700 photos of flowers categorized into five classes: daisy, dandelion, roses, sunflowers, and tulips.
